@@ -1,5 +1,12 @@
 {
   "extends": [
     "markuplint:recommended"
-  ]
+  ],
+  "overrides": {
+    "./index.html": {
+      "rules": {
+        "doctype": false
+      }
+    }
+  }
 }

@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "markuplint": "^3.12.0"
+    "markuplint": "3.12.0"
   }
 }
